@@ -24,7 +24,7 @@ public class first {
 	      		{													
 	      			System.out.println("Sum = " + sum);  
 	      		}
-	      
+	      System.out.println("Fattous");
 			}
 	}
 	/*for (int i = 1; i <= 10; ++i) {
